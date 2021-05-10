@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListView-and-CardView.iml" filepath="$PROJECT_DIR$/.idea/modules/ListView-and-CardView.iml" group="ListView-and-CardView" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ListView-and-CardView-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ListView-and-CardView-app.iml" group="ListView-and-CardView/app" />
       <module fileurl="file://$PROJECT_DIR$/ListViewWithCards.iml" filepath="$PROJECT_DIR$/ListViewWithCards.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
